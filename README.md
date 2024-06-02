@@ -1,1 +1,1 @@
-# aulapr-tica
+# aula-prática
